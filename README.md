@@ -46,12 +46,14 @@ To use PiBrain-Core, follow these steps:
 
 1. Clone the repository:
 
-`git clone https://github.com/KOSASIH/PiBrain-Core.git`
+```
+1. git clone https://github.com/KOSASIH/PiBrain-Core.git
+```
 
 2. Navigate to the repository directory:
 
 ```
-cd PiBrain-Core
+1. cd PiBrain-Core
 ```
 
 3. Run the AI engine:
