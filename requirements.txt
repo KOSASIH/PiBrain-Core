@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+pytorch
+torchvision
+nltk
+spacy
+scipy
+fastapi
+uvicorn
+sqlalchemy
+gunicorn
