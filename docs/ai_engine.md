@@ -4,6 +4,33 @@
 
 PiBrain-Core is a high-performance AI engine designed for node optimization and decision-making in the Pi Network. It is built using state-of-the-art machine learning models and advanced optimization techniques to provide efficient and effective solutions for network optimization problems.
 
+# Directory Structure
+
+The following is the directory structure of the PiBrain-Core AI engine:
+
+```
+PiBrain-Core/
+├── src/                        # Source code
+│   ├── ai_engine/              # AI engine core
+│   │   ├── __init__.py         # Initialization file
+│   │   ├── optimizer.py        # AI optimizer for node configuration
+│   │   ├── decision_maker.py   # Decision-making module for node actions
+│   ├── model/                 # Machine learning models
+│   │   ├── __init__.py         # Initialization file
+│   │   ├── optimizer.py        # AI optimizer model
+│   ├── config/                # Configuration files
+│   │   ├── config.py           # AI engine configuration
+│   ├── data/                   # Data storage and preprocessing
+│   │   ├── preprocess.py       # Data preprocessing module
+│   │   ├── data_loader.py      # Data loading module
+│   ├── tests/                  # Unit tests and integration tests
+│   │   ├── __init__.py         # Initialization file
+│   │   ├── test_optimizer.py   # AI optimizer tests
+│   │   ├── test_decision.py    # Decision-making tests
+├── requirements.txt           # Required packages and dependencies
+
+```
+
 # AI Engine Core
 
 The AI engine core consists of the following modules:
